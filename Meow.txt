@@ -1,0 +1,13 @@
+Commit -> Save as draft
+Push -> Update your savings to your GitHub
+Branch -> When you work with others, or creating a risky or new features
+Checkout -> Moving to another branches
+Pull -> Request a permission to merge our branch to the main branch, accept (merge) or decline
+Init -> create repository
+Add -> Add new file
+Clone = Duplicate GitHub code into your local machine (GitHub - Local Machine)
+Fork = Duplicate from another account's GitHub to your account's GitHub (GitHub - GitHub)
+
+GitHub Website
+
+GitHub Shell
